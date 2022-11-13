@@ -1,4 +1,4 @@
-Щn different branches there are different elements for my app
+On different branches there are different elements for my app
 * branch question
 * branch modal_react
 
